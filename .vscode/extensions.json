@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "prodam.flutter-extension-pack"
+        "prodam.flutter-extension-pack",
+        "blueneogeo.flutter-view-vscode"
     ]
 }
